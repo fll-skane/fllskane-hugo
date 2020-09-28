@@ -1,4 +1,4 @@
-baseURL = "https://fll-skane.github.io/fllskane-hugo-public/"
+baseURL = "https://fll-skane.github.io/fllskane-hugo/"
 languageCode = "en-us"
 title = "FLL Skåne Hugo Site"
 theme = "ananke"
