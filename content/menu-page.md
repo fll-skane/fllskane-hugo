@@ -1,4 +1,4 @@
 ---
-menu: "main"
-title: "My First Post"
+title: My First Post
+
 ---
