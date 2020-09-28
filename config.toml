@@ -1,5 +1,5 @@
 baseURL = "https://fll-skane.github.io/fllskane-hugo/"
 languageCode = "en-us"
-title = "FLL Skåne Hugo Site"
-theme = "ananke"
 publishDir = "docs"
+theme = "ananke"
+title = "FLL Skåne Hugo Site"
