@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FLL Skåne Hugo Site</title>
-    <link>https://fll-skane.github.io/fllskane-hugo-public/categories/</link>
+    <link>https://fll-skane.github.io/fllskane-hugo/categories/</link>
     <description>Recent content in Categories on FLL Skåne Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fll-skane.github.io/fllskane-hugo-public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fll-skane.github.io/fllskane-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

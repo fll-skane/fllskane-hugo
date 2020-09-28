@@ -3,26 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fll-skane.github.io/fllskane-hugo-public/</loc>
+    <loc>https://fll-skane.github.io/fllskane-hugo/</loc>
     <lastmod>2020-09-28T16:20:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fll-skane.github.io/fllskane-hugo-public/posts/my-first-post/</loc>
+    <loc>https://fll-skane.github.io/fllskane-hugo/posts/my-first-post/</loc>
     <lastmod>2020-09-28T16:20:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fll-skane.github.io/fllskane-hugo-public/posts/</loc>
+    <loc>https://fll-skane.github.io/fllskane-hugo/posts/</loc>
     <lastmod>2020-09-28T16:20:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fll-skane.github.io/fllskane-hugo-public/categories/</loc>
+    <loc>https://fll-skane.github.io/fllskane-hugo/test/</loc>
   </url>
   
   <url>
-    <loc>https://fll-skane.github.io/fllskane-hugo-public/tags/</loc>
+    <loc>https://fll-skane.github.io/fllskane-hugo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fll-skane.github.io/fllskane-hugo/menu-page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fll-skane.github.io/fllskane-hugo/tags/</loc>
   </url>
   
 </urlset>

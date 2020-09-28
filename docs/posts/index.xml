@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on FLL Skåne Hugo Site</title>
-    <link>https://fll-skane.github.io/fllskane-hugo-public/posts/</link>
+    <link>https://fll-skane.github.io/fllskane-hugo/posts/</link>
     <description>Recent content in Posts on FLL Skåne Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 16:20:11 +0200</lastBuildDate><atom:link href="https://fll-skane.github.io/fllskane-hugo-public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Sep 2020 16:20:11 +0200</lastBuildDate><atom:link href="https://fll-skane.github.io/fllskane-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://fll-skane.github.io/fllskane-hugo-public/posts/my-first-post/</link>
+      <link>https://fll-skane.github.io/fllskane-hugo/posts/my-first-post/</link>
       <pubDate>Mon, 28 Sep 2020 16:20:11 +0200</pubDate>
       
-      <guid>https://fll-skane.github.io/fllskane-hugo-public/posts/my-first-post/</guid>
+      <guid>https://fll-skane.github.io/fllskane-hugo/posts/my-first-post/</guid>
       <description>Hello, world!</description>
     </item>
     
