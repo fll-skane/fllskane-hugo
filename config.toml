@@ -1,6 +1,10 @@
 baseURL = "https://fll-skane.github.io/fllskane-hugo/"
 languageCode = "en-us"
 publishDir = "docs"
+sectionPagesMenu = "main"
 theme = "ananke"
 title = "FLL Skåne Hugo Site"
-sectionPagesMenu = "main"
+[[menu.main]]
+name = "Google"
+url = "google.com"
+weight = 2
