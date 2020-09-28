@@ -1,11 +1,26 @@
 ---
-label: Test
+label: Sida med bild
 hide_body: true
+display_field: titel
 fields:
 - name: titel
   type: text
   config:
     required: false
   label: Titel
+- name: bild
+  type: file
+  config:
+    maxSize: 64
+  label: Bild
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
 pages:
 - content/om-oss.md
